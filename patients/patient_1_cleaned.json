@@ -1,0 +1,42 @@
+{
+    "meta_data": {
+        "patient_id": "p_001",
+        "name": "John A. Doe",
+        "dob": "1965-04-12",
+        "gender": "male",
+        "address": "456 Elm Street, Springfield, USA",
+        "contact": {
+            "phone": "555-123-4567",
+            "email": "johndoe@example.com"
+        }
+    },
+    "encounters_0": "**Patient Encounter Summary:**\n\n- **Encounter Type:** Emergency Department Visit\n- **Date:** March 15, 2021\n- **Symptoms:** Shortness of breath\n- **Diagnosis:** Acute Exacerbation of Chronic Obstructive Pulmonary Disease\n- **Attending Physician:** Dr. Emily Richards\n- **Location:** Springfield General Hospital, Emergency Room 1\n- **Status:** Completed and billed ($750)",
+    "encounters_1": "**Patient Encounter Summary**\n\n- **Encounter Type:** Outpatient\n- **Reason for Visit:** Follow-up Visit for Lung Cancer\n- **Diagnosis:** Stage II Non-Small Cell Lung Cancer\n- **Attending Physician:** Dr. Michael Thompson\n- **Location:** Oncology Outpatient Clinic, National Cancer Center\n- **Date:** April 10, 2021\n- **Procedure:** Office visit for evaluation and management of an established patient (CPT 99213)\n- **Charge:** $150 (USD)",
+    "encounters_2": "**Patient Encounter Summary**\n\n* **Encounter Type:** Inpatient\n* **Procedure:** Chemotherapy Session for Stage II Non-Small Cell Lung Cancer\n* **Attending Physician:** Dr. Sarah Lee\n* **Location:** National Cancer Center, Chemotherapy Unit\n* **Date:** June 1, 2021\n* **Status:** Completed and billed ($500)",
+    "visits_0": "**Patient Visit Summary**\n\n* **Visit Type:** Emergency Department Visit\n* **Date:** March 15, 2021\n* **Location:** Emergency Room 1, Springfield General Hospital\n* **Attending Physician:** Dr. Emily Richards\n* **Chief Complaint:** Shortness of breath\n* **Diagnosis:** Chronic obstructive pulmonary disease with (acute) exacerbation\n* **Vital Signs:** Systolic blood pressure: 150 mmHg\n* **Outcome:** Stabilized and discharged\n* **Charge:** $750 (USD) for emergency department visit",
+    "visits_1": "**Patient Visit Summary**\n\n* Patient ID: p_001\n* Visit Type: Follow-up Visit (Outpatient)\n* Date: April 10, 2021\n* Location: Oncology Outpatient Clinic, National Cancer Center\n* Attending Physician: Dr. Michael Thompson\n* Reason for Visit: Malignant neoplasm of upper lobe, bronchus or lung (Lung Cancer)\n* Scheduled for: Chemotherapy\n* Lab Results: Hemoglobin level 13.5 g/dL (taken on April 10, 2021)\n* Bill Status: Billed ($150)",
+    "visits_2": "**Patient Visit Summary**\n\n- **Patient ID:** p_001\n- **Visit Type:** Inpatient\n- **Date:** June 1, 2021\n- **Location:** National Cancer Center, Chemotherapy Unit\n- **Attending Physician:** Dr. Sarah Lee\n- **Diagnosis:** Malignant neoplasm of upper lobe, bronchus or lung (C34.1)\n- **Procedure:** Chemotherapy Session\n- **Outcome:** Chemotherapy administered successfully\n- **Lab Results:** White blood cells count: 4.5 * 10^3/uL (as of June 1, 2021, 12:00 PM)\n- **Billing Status:** Billed (USD 500 for chemotherapy administration)",
+    "procedures_0": "Here's a summary of the patient's procedure in plain English:\n\n**Procedure:** Biopsy of lung\n**Date:** February 20, 2020\n**Result:** Diagnosis confirmed as non-small cell lung carcinoma\n**Performed by:** Dr. Laura Kim, Surgeon\n**Location:** Surgical Suite 2\n**Outcome:** Procedure was well-tolerated, tissue samples sent for histopathological analysis.",
+    "procedures_1": "**Procedure Summary:**\n\n* **Procedure Name:** Chest CT Scan\n* **Date:** May 15, 2021\n* **Result:** No evidence of metastasis, no new lesions detected.\n* **Performed by:** Dr. Alan Walker, Radiologist\n* **Location:** Radiology Department",
+    "procedures_2": "Here's a summary of the patient's procedure in plain English:\n\n**Procedure:** Lung Surgery (Lobectomy) for Lung Cancer Treatment\n**Date:** August 20, 2022\n**Surgeon:** Dr. Karen White\n**Location:** Surgical Wing 3\n**Outcome:** Successful resection of tumor, post-operative recovery progressing well.\n**Imaging Results:** Normal post-operative findings on MRI, tumor successfully resected.",
+    "diagnosis_0": "Patient 001 was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) exacerbation on March 15, 2021, after presenting with acute shortness of breath.",
+    "diagnosis_1": "Patient has Stage II Non-Small Cell Lung Cancer, confirmed by biopsy, with a diagnosis of malignant neoplasm of the upper lobe, bronchus or lung (ICD-10 code: C34.1).",
+    "diagnosis_2": "Patient 'p_001' was diagnosed with Essential (Primary) Hypertension on July 10, 2018, during a routine check-up. The condition is being managed with ACE inhibitors.",
+    "diagnosis_3": "Patient Summary:\n\n- Condition: Type 2 diabetes mellitus without complications\n- Diagnosis Date: May 22, 2019\n- Treatment: Started on Metformin after hospitalization screening.",
+    "labs_0": "Here's a summarized version of the lab data in plain English:\n\nThe patient had a normal Complete Blood Count (CBC) on March 15, 2021.",
+    "labs_1": "Patient 'p_001' has a Hemoglobin A1c level of 6.8%, which is above the normal range of 4.0-5.6%, indicating possible diabetes or elevated blood sugar levels, as of January 10, 2022.",
+    "labs_2": "The patient's creatinine level is 1.1 mg/dL, which is within the normal range (0.6-1.2 mg/dL).",
+    "labs_3": "Patient 'p_001' had a Liver Function Test on June 1, 2021, which showed elevated levels of AST and ALT, indicating potential liver damage.",
+    "medications_0": "The patient is taking Lisinopril, a 10mg oral tablet, once daily, since July 10, 2018, and is prescribed until December 31, 2024.",
+    "medications_1": "Patient ID: p_001\nMedication: Metformin\nDosage: 500 mg, twice daily, oral\nDuration: May 22, 2019 - December 31, 2024",
+    "medications_2": "The patient is taking Etoposide 100mg intravenously once daily, from June 1, 2021 to June 15, 2021.",
+    "medications_3": "Patient p_001 is taking Cisplatin, a chemotherapy medication, as follows:\n\n- Dose: 50 mg\n- Frequency: Once a week\n- Route: Intravenous (through a vein)\n- Duration: June 1, 2021 to February 1, 2022",
+    "allergies_0": "The patient is allergic to Penicillin, a medication, with a mild reaction of rash upon administration.",
+    "allergies_1": "Patient has a severe allergy to latex, which can cause anaphylaxis.",
+    "notes_0": "**Patient Summary**\n\n- **Chief Complaint**: Persistent cough and chest pain.\n- **Diagnosis**: Stage II Non-Small Cell Lung Cancer.\n- **Treatment Plan**: Biopsy scheduled for further evaluation and initiation of treatment protocol.\n- **Date of Diagnosis**: February 20, 2020.",
+    "notes_1": "**Patient Summary:**\n\n* **Diagnosis:** Stage II Non-Small Cell Lung Cancer\n* **Biopsy Findings:** Malignant cells consistent with non-small cell carcinoma, no evidence of metastasis\n* **Date:** February 21, 2020",
+    "notes_2": "**Patient Consultation Summary**\n\n* Date: March 1, 2020\n* Treatment Plan: Surgery (lobectomy) to remove affected lung tissue, followed by chemotherapy.\n* Recommendation: Proceed with the planned treatment for comprehensive care.",
+    "notes_3": "Here's a summary of the patient's radiology follow-up note:\n\n* Date: May 15, 2021\n* Imaging Results: No new metastasis seen on chest CT\n* Assessment: Patient is responding well to chemotherapy.",
+    "notes_4": "**Patient's Surgical Report Summary**\n\n* Date: August 20, 2022\n* Procedure: Successful lobectomy\n* Post-operative Plan: Continue chemotherapy and monitor recovery\n* Status: Recovery progressing as expected",
+    "notes_5": "**Patient Summary:**\n\n* Date of Consultation: June 18, 2023\n* Current Status: No significant symptoms reported\n* Treatment Plan: Continue maintenance therapy\n* Next Follow-up: Scheduled in three months\n\nThe patient is currently asymptomatic and tolerating treatment well."
+}

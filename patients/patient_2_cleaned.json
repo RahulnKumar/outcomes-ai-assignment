@@ -1,0 +1,54 @@
+{
+    "meta_data": {
+        "patient_id": "p_002",
+        "name": {
+            "given": "Karen",
+            "family": "Wee"
+        },
+        "gender": "female",
+        "dob": "1985-04-12",
+        "contact": [
+            {
+                "system": "phone",
+                "value": "+1-555-123-4567",
+                "use": "mobile"
+            },
+            {
+                "system": "email",
+                "value": "karen.wee@example.com",
+                "use": "home"
+            }
+        ],
+        "address": {
+            "line": [
+                "123 Maple Street"
+            ],
+            "city": "Springfield",
+            "state": "IL",
+            "postalCode": "62704",
+            "country": "USA"
+        }
+    },
+    "encounters_0": "Here's a summary of the patient's encounter data:\n\n* Encounter Type: Outpatient consultation\n* Chief Complaint: Breast lump\n* Diagnosis: Malignant neoplasm of breast (left)\n* Attending Physician: Dr. Jane Smith\n* Date and Time: March 15, 2020, 9:00-10:30 am\n* Location: Oncology Clinic, City Hospital, Room 201",
+    "encounters_1": "Here is a summarized version of the patient's encounter data:\n\n**Encounter Summary:**\n\n* Encounter Type: Outpatient\n* Date: June 20, 2021\n* Time: 10:00 AM - 12:00 PM\n* Location: Chemotherapy Unit - Suite B, City Hospital\n* Attending Physician: Dr. Alan Thompson, Oncologist\n* Reason for Visit: Breast cancer treatment\n* Diagnosis: Malignant neoplasm of breast, left\n* Procedure: Chemotherapy Administration",
+    "visits_0": "Here is a summarized version of the patient's visit data:\n\n**Visit Details:**\n\n* Visit ID: visit_1001\n* Date: March 15, 2020\n* Location: National Cancer Center, Pharmacy department\n* Attending Physician: Dr. Jane Smith\n\n**Reason for Visit:**\n\n* Follow-up visit for Malignant neoplasm of breast, unspecified (C509)\n\n**Procedures:**\n\n* Chest X-ray (no abnormalities detected)\n\n**Follow-up:**\n\n* Follow-up appointment required\n\n**Billing:**\n\n* Chest X-ray billed for $200",
+    "visits_1": "**Patient Visit Summary**\n\n* **Visit Type:** Follow-up Visit\n* **Date:** June 20, 2021\n* **Location:** National Cancer Center, Chemotherapy Unit\n* **Attending Physician:** Dr. Alan Thompson\n* **Condition:** Malignant neoplasm of breast (unspecified)\n* **Procedure:** Chemotherapy administration\n* **Outcome:** Session completed without complications\n* **Bill Status:** Billed ($1500)",
+    "procedures_0": "**Procedure Summary:**\n\n* **Procedure:** Lumpectomy (removal of a tumor from the breast)\n* **Date:** April 10, 2020\n* **Location:** Surgical Suite 3\n* **Surgeon:** Dr. Emily Clark\n* **Body Site:** Left Breast\n* **Outcome:** Successful removal of tumor with negative margins (no cancer found at the edges of the removed tissue)\n* **Complications:** None reported",
+    "procedures_1": "**Procedure Summary:**\n\n* **Procedure:** Bone marrow biopsy\n* **Date:** February 15, 2021\n* **Location:** Hematology Lab\n* **Performed by:** Dr. Michael Lee, Hematologist\n* **Result:** No evidence of metastasis\n* **Complications:** Mild discomfort reported\n* **Body Site:** Posterior superior iliac spine",
+    "diagnosis_0": "Patient 'p_002' has been diagnosed with stage II breast cancer (left female breast) as of March 10, 2020.",
+    "diagnosis_1": "Patient 'p_002' has a medical history of essential hypertension, which is currently controlled with medication.",
+    "diagnosis_2": "Patient p_002 was diagnosed with Type 2 diabetes mellitus without complications on November 5, 2019, during a routine check-up. The condition is currently controlled, as indicated by HbA1c levels.",
+    "labs_0": "Here's a summary of the patient's Complete Blood Count (CBC) lab results:\n\n- Hemoglobin: 13.5 g/dL (Normal range: 12-16 g/dL)\n- White Blood Cell (WBC) count: 6.2 x10^9/L (Normal range: 4-11 x10^9/L)\n- Platelet count: 250 x10^9/L (Normal range: 150-450 x10^9/L)\n\nAll values are within normal ranges.",
+    "labs_1": "The patient's creatinine level is 0.9 mg/dL, which is within the normal range of 0.6-1.1 mg/dL, as of August 26, 2024.",
+    "labs_2": "The patient's Hemoglobin A1c level is 7.2%, which is above the normal range of 4.0-5.6%. This test was done on September 15, 2023.",
+    "medications_0": "Patient is currently taking Lisinopril 10mg orally once a day, started on July 25, 2018.",
+    "medications_1": "Patient is currently taking Metformin, 500 mg orally twice daily, started on November 10, 2019.",
+    "medications_2": "The patient is taking Lactulose 20g orally, twice a day (BID), from August 26, 2024, to September 30, 2024.",
+    "allergies_0": "Patient is allergic to Penicillin (antibiotic), with a mild reaction of rash.",
+    "allergies_1": "The patient is allergic to Lactulose, a laxative.",
+    "notes_0": "**Patient Summary:**\n\n* **Patient ID:** cn_001\n* **Diagnosis:** Stage II Malignant neoplasm of left breast (invasive ductal carcinoma, ER+/PR+/HER2-)\n* **Treatment Plan:** Lumpectomy followed by adjuvant chemotherapy\n* **Current Status:** ECOG performance status 1 (patient is fully active but may have some symptoms)",
+    "notes_1": "Patient underwent a successful lumpectomy on the left breast. Key findings include:\n\n- Tumor size: 2.5 cm\n- Clear margins\n- No lymphovascular invasion\n- Sentinel lymph node biopsy results pending\n- Post-op plan: Start chemotherapy next week.",
+    "notes_2": "Patient 'Karen Wee' received her second cycle of chemotherapy (Doxorubicin and Cyclophosphamide) on June 20, 2021. Key points:\n\n- Tolerated the session well with no adverse effects.\n- Vital signs were stable throughout the infusion.\n- No episodes of febrile neutropenia, nausea, or vomiting reported.\n- Next cycle scheduled in 3 weeks.",
+    "notes_3": "Patient 'cn_004' had a chest X-ray on October 15, 2024. The results show:\n\n- No acute abnormalities detected\n- Lungs are clear with no signs of consolidation, effusion, or pneumothorax\n- Heart size is within normal limits\n- No suspicious nodules or masses identified\n\nImpression: Normal chest X-ray with no signs of metastatic disease in the thoracic cavity.",
+    "notes_4": "Patient's Type 2 Diabetes is well-controlled with current medication. Key points:\n\n- HbA1c level: 7.2% (down from 8.0% six months ago)\n- Fasting blood glucose levels within target range\n- No hypoglycemic episodes or signs of diabetic complications\n- Continue Metformin 500mg twice a day\n- Next HbA1c test scheduled for March 2024"
+}
